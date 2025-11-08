@@ -58,4 +58,4 @@ I’m open to **frontend developer roles, remote or onsite**, and always happy t
 
 ---
 
-*Thanks for visiting my GitHub profile. Let’s build something great together!* 🚀
+*Thanks for visiting my GitHub profile. Let’s build something great together!*
