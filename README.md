@@ -36,8 +36,8 @@ A marketplace for SIM cards. Developed product listing, filtering, and checkout 
 ---
 
 ## Skills
-**Frontend:** Vue.js, Nuxt3, React.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS  
-**Tools & Workflow:** Git, GitHub, VS Code, Agile/Scrum  
+**Frontend:** Vue.js, Nuxt3, React.js, Next.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS  
+**Tools & Workflow:** Git, GitHub, Vitest, Jest, SSR, SPA, SSG, VS Code, Agile/Scrum
 **APIs:** REST, GraphQL  
 **Other:** Responsive Design, Performance Optimization, Clean Code
 
