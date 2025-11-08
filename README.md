@@ -54,7 +54,7 @@ I’m open to **frontend developer roles, remote or onsite**, and always happy t
 
 - **Email:** [mahmoud@example.com](mailto:mahmoud@example.com)  
 - **LinkedIn:** [linkedin.com/in/mahmoud-elfarargy](https://linkedin.com/in/mahmoud-elfarargy)  
-- **Portfolio:** [cezma.com](https://cezma.com)
+- **Portfolio:** [mahmoudfarargy.vercel.app](https://mahmoudfarargy.vercel.app)
 
 ---
 
