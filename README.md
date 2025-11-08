@@ -16,7 +16,8 @@ I’ve worked on e-commerce platforms, e-learning apps, and marketplaces, taking
 - Build scalable, maintainable **web applications** with Vue.js, Nuxt3, and React.js  
 - Implement **clean, modern UI/UX** with HTML, CSS, and Tailwind CSS  
 - Connect applications with **REST and GraphQL APIs**  
-- Optimize performance and maintain **code quality** through best practices  
+- Optimize performance and maintain **code quality** through best practices
+- Perform unit and integration tests
 
 ---
 
