@@ -53,7 +53,7 @@ A marketplace for SIM cards. Developed product listing, filtering, and checkout 
 ## Contact
 I’m open to **frontend developer roles, remote or onsite**, and always happy to connect for **collaboration, mentorship, or new opportunities**.
 
-- **Email:** [mahmoud@example.com](mailto:mahmoud@example.com)  
+- **Email:** [mahmoudfarargy9@gmail.com](mailto:mahmoudfarargy9@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/mahmoud-elfarargy](https://linkedin.com/in/mahmoud-elfarargy)  
 - **Portfolio:** [mahmoudfarargy.vercel.app](https://mahmoudfarargy.vercel.app)
 
